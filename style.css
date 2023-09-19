@@ -1,0 +1,77 @@
+* {
+    margin: 20px;
+    padding: 0;
+}
+
+div.box1-head {
+    height: 258px;
+    background-color: bisque;
+}
+
+img {
+    width: 10rem;
+    height: 11rem;
+    margin-left: -8px;
+    margin-top: 12px;
+}
+
+.personal-det {
+    
+    text-align-last: right;
+    margin-top: -13rem;
+    margin-right: -10px;
+    line-height: 6px;
+    font-size: 1.1rem;
+}
+
+.main {
+    margin-left: 0%;
+    font-size: 1.1rem;
+}
+
+.edu {
+    margin-left: 0%;
+    font-size: 1.1rem;
+}
+
+.edu>.edu-details {
+    line-height: 5px;
+    margin: 0%;
+    height: 5.5rem;
+    font-size: 1.1rem;
+}
+
+.personal-det1 {
+    margin: 0%;
+}
+
+.personal-det1-details {
+    margin: 0%;
+    line-height: 5px;
+    font-size: 1.1rem;
+    height: 5.5rem;
+}
+
+.tech-skil {
+    margin: 0%;
+}
+
+.tech-skil>.tech-skil-det {
+    margin: 0%;
+    line-height: 5px;
+    font-size: 1.1rem;
+    height: 5.5rem;
+}
+
+/* color of heilight things */
+.color{
+    background-color: bisque;
+}
+/* skills area */
+
+.container {
+    display: flex;
+    justify-content: space-between;
+    
+}
+
